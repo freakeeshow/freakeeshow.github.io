@@ -53,10 +53,11 @@ a:active {
 }
 
 #right {
-	width:70%;
+	width:85%;
 	height:600px;
 	background-color:#ffffff;
 	float:left;
+	box-sizing: border-box;
 	padding-top: 5%;
 	padding-left:5%;
 }
